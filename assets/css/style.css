@@ -1,0 +1,58 @@
+h1 {
+  text-align: center;
+  font-size: 60px;
+}
+
+body {
+  color: white;
+  background-color: black;
+}
+
+.main-flex {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.main-text {
+  text-align: center;
+  width: 40%;
+  font-size: 38px;
+  margin-left: 10%;
+  padding-top: 70px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 60px;
+  letter-spacing: 10px;
+}
+h3 {
+  font-size: 32px;
+}
+.features {
+  display: flex;
+  justify-content: space-evenly;
+}
+.backgrowm {
+  background-color: #1e1a13;
+}
+.padding {
+  padding-top: 55px;
+  padding-bottom: 55px;
+}
+
+.img-flex {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.footer {
+  text-align: center;
+  font-size: 32px;
+}
+.icon {
+    font-size: 80px;
+    padding-left: 20px;
+}
